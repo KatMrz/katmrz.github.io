@@ -1,11 +1,11 @@
 title: Katrina Mrzljak # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "https://github.com/KatMrz/katmrz.github.io/blob/master/images/Untitled153_20220323192104.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello! I'm Kat, an aspiring software developer. I'm well versed javascript and currently teaching myself how to develop games using unity.
   <br><br>
   This GitHub portfolio is for my 2021-2022 Capstone Project. Enjoy!
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://docs.google.com/presentation/d/13BNuPuciUl3mAfGyY9v2r8cGthiXyTn2h96Yo9fSo3s/edit?usp=sharing">View The Slides</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
