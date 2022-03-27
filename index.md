@@ -2,11 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Javascript Projects 
 
 [Javascript Cloud Watermelon](/sample_page)
 <img src="https://github.com/KatMrz/katmrz.github.io/blob/master/images/cloudwatermelon.png?raw=true"/>
-
+<p>A levitating watermelon. What more could you need?</p>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
