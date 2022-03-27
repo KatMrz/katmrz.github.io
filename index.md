@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Javascript Cloud Watermelon](/sample_page)
-<img src="![image](https://user-images.githubusercontent.com/101966055/160264515-4d9a6610-459d-405b-8b8d-35d176e5664b.png)"/>
+<img src="<img src="https://github.com/KatMrz/katmrz.github.io/blob/master/images/cloudwatermelon.png?raw=true" alt="cloudwatermelon.png"/>![image](https://user-images.githubusercontent.com/101966055/160264733-cfb7181a-cba5-4953-bb01-a4aa4a66c97f.png)
+"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
