@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Javascript Cloud Watermelon](/sample_page)
-<img src="<img src="https://github.com/KatMrz/katmrz.github.io/blob/master/images/cloudwatermelon.png?raw=true" alt="cloudwatermelon.png"/>![image](https://user-images.githubusercontent.com/101966055/160264733-cfb7181a-cba5-4953-bb01-a4aa4a66c97f.png)
+<"https://github.com/KatMrz/katmrz.github.io/blob/master/images/cloudwatermelon.png?raw=true
 "/>
 
 ---
