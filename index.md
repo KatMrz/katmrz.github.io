@@ -5,8 +5,7 @@
 ### Category Name 1 
 
 [Javascript Cloud Watermelon](/sample_page)
-<"https://github.com/KatMrz/katmrz.github.io/blob/master/images/cloudwatermelon.png?raw=true
-"/>
+<img src="https://github.com/KatMrz/katmrz.github.io/blob/master/images/cloudwatermelon.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
