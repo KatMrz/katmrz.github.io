@@ -8,6 +8,6 @@
 
 ### January 18th, 2022
 
-<img src="https://github.com/KatMrz/katmrz.github.io/blob/master/images/cloudwatermelon.png?raw=true"/>
+<img src="https://github.com/KatMrz/katmrz.github.io/blob/master/images/Hnet-image%20(1).gif?raw=true"/>
 
 <a href="https://replit.com/@KatrinaM/Cloud-Watermelon?v=1#script.js">View the code on Replit!</a>
