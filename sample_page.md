@@ -8,7 +8,7 @@
 
 ## January 18th, 2022
 
-<p>As I learned more and more Javascript principles, I applied these skills to my watermelon. I turned my watermelon into a draw function so I could give any coordinates I wanted and the whole watermelon would appear in the given coordinates. I created clouds as objects so that I could quickly replicate more with different attributes, sizes, and colours. I used if and then statements, boolean, and variables to animate my watermelon and track its coordinates. This way, the software would detect when the fruit flew too high and would send it back down. This is the latest version of Cloud Watermelon!</p>
+<p>As I learned more and more Javascript principles, I applied these skills to my watermelon. I turned my watermelon into a draw function so I could type in any coordinates I wanted and the whole watermelon would appear in the given coordinates, rather than having to draw each seperate shape again. I created clouds as objects so that I could quickly replicate more with different attributes, sizes, and colours. I used if and then statements, boolean, and variables to animate my watermelon and track its coordinates. This way, the software would detect when the fruit flew too high and would send it back down. This is the latest version of Cloud Watermelon!</p>
   
 <img src="https://github.com/KatMrz/katmrz.github.io/blob/master/images/Hnet-image%20(1).gif?raw=true"/>
 
